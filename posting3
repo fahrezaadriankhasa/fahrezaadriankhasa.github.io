@@ -1,0 +1,57 @@
+<html>
+<head>
+	<title>cofe de cafetaria </title>
+	<link rel="stylesheet" type="text/css"
+	media="all" href="style7.css">
+</head>
+<body>
+	<div id="layout">
+		<div id="header">
+		<img src="header.jpg" class="header">
+		</div>
+		<div id="menu">
+			<ul>
+				<li><a href="index7.html">Beranda</a></li>
+				<li><a href="profil.html">Tentang Saya</a></li>
+				<li><a href="kontak.html">Kontak Kami</a></li>
+			</ul>
+			</div>
+		<div id="runningtext">
+		<marquee behavior="scroll" scrollamount="3" onmouseover="this.stop();" onmouseout="this.start();" direction="left">
+			Selamat Datang di Website Saya ... !!!        FAHREZA ADRIAN KHASA :::: 95410202
+		</marquee>
+		</div>
+		<div id="sidebar">
+		<div class="widged">
+		<img src="iklan.gif" class="gambariklan">
+		</div>
+		<div class="widged">
+		<h1 class="judulwidged">Posting Teratas</h1>
+		<ul>
+			<li> <a href="posting1.html">Kopi Arabika</a> </li>
+			<li> <a href="posting2.html">Kopi Robusta</a> </li>
+			<li> <a href="posting3.html">Kopi Liberika</a> </li>
+		</ul>
+		</div>
+		</div>
+		<div id="isi">
+			<div class="isipostingall">
+			<h2>Kopi Liberika</h2><br>
+			<img src="posting3.jpg" class="gambarposting1">
+			<ul>
+			<li><h3>Lebih Dekat dengan Sibiji Besar</h3></li>
+			</ul>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Selanjutnya adalah Kopi Liberika, jenis yang satu ini memang belum terlalu banyak beredar di pasaran dunia
+				karena memang sangat sedikit produsen yang mengembangkannya. Liberika memiliki ciri-ciri bijinya yang ukurannya lebih besar
+				dengan jenis Arabika dan Robusta. Kopi yang berasal dari Afrika barat tepatnya Liberia ini dapat tumbuh hingga 9 meter dan
+				biasanya berkembang di dataran rendah dengan kualitas biji yang relative rendah.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Namun kopi Liberika sempat berkembang di Indonesia dan masuk pada abad ke 19 sebagai pengganti jenis Arabika yang terserang hama penyakit.
+Indonesia adalah surganya kopi karena hampir berbagai jenis dihasilkan dsini.</p>
+
+			</div>
+		</div>
+		<div id="footer"> &copy 2020, by Reza Khasa </div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,11 @@
+Nama : Fahrzea Adrian Khasa
+NIM  : 195410202
+Kelas : TI-5
+UTS PEMROGRAMAN WEB CLIENT
+-------------------------------------------------
+
+Website Sistem Informasi tentang Kopi ini memiliki :
+1. 5 buah file html
+2. 1 buah file css
+3. 5 buah file *.jpg
+4. 1 buah file *.gif
